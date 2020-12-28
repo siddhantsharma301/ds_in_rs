@@ -1,3 +1,7 @@
+mod maps;
+mod sets;
+mod traits;
+
 #[cfg(test)]
 mod tests {
     #[test]
